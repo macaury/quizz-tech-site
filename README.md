@@ -1,7 +1,4 @@
-
-
-
-<img src="./screenshot.png" href="https://pedrocslucas.github.io/quizz-tech-site/" alt="Captura da tela inicial doi quiz"></img>
+<img src="./screenshot.png" alt="Captura da tela inicial do quiz"></img>
 
 <h4 align="center"><a href="https://pedrocslucas.github.io/quizz-tech-site/">Clique para visitar o projeto</a></h4>
 
