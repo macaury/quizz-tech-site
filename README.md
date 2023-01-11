@@ -1,3 +1,11 @@
+
+
+
+
+
+<h4 align="center"><a href="https://pedrocslucas.github.io/quizz-tech-site/">Clique para visitar o projeto</a></h4>
+
+
 # quizz-tech-site
 Quiz de tecnologia, feito em ReactJS e Bootstrap e com Licença Creative Commons, feito para obtenção da nota 2 da disciplina de Informática na Educação.
 
